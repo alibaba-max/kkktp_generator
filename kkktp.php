@@ -15,7 +15,7 @@ $ktp = $data3[0];
 $kk = $data3[1];
 //$data4 = array('KTP' => $ktp, 'NO_KK' => $kk);
 //print(json_encode(array('src'=>'Hasil', 'result'=>$data4)));
-echo " KK DAN GENERATOR VIP BY GHOSTNAME\n";
+echo " KK DAN NIK GENERATOR VIP BY GHOSTNAME\n";
 echo "\e[97m Code By; GhostName\n";
 echo " Thanks To;\e[92m Indonesian Cyber Security || Cyber Indonesian\n\n";
 echo "No. KTP : ".$ktp."\n";
